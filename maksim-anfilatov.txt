@@ -1,0 +1,4 @@
+1. 8
+2. Wed Oct 10 00:47:52 2012 +0400
+3. Pavel Tsaregorodtsev
+4. 3b128fa1c6b96c9be4aed5b2bcf777537d752c5e https://github.com/express42/zabbixapi/commit/3b128fa1c6b96c9be4aed5b2bcf777537d752c5e
